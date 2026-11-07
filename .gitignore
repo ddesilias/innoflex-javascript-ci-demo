@@ -31,3 +31,6 @@ npm-debug.log*
 /www
 
 tests/e2e/videos
+
+# Local credential file
+/test
